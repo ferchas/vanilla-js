@@ -247,6 +247,7 @@ elem.parentNode.removeChild( elem );
 
 ## Referencias
 [vanilla-js-guidebook](https://zoxon.gitbooks.io/the-vanilla-js-guidebook/content/chapters/09%20-%20DOM%20Ready.html)
+
 [neliosoftware](https://neliosoftware.com/es/blog/vanilla-javascript-es-el-futuro/)
 
 
